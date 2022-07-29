@@ -1,7 +1,7 @@
 #include <iostream>
-#include <eigen-3.3.7/Eigen/Sparse>
-#include<algorithm> 
-#include<fstream>
+#include <eigen3/Eigen/Sparse>
+#include <algorithm> 
+#include <fstream>
 
 using namespace Eigen;
 
